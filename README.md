@@ -1,6 +1,6 @@
 # atomic-design
 
-Project created to learn atomic design concepts
+Project created to learned atomic design concepts in cataline.io bootcamp
 
 ### Final project
 
