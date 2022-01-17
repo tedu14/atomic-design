@@ -4,13 +4,11 @@ Project created to learn atomic design concepts
 
 ### Final project
 
-![alt Final project image](https://github.com/tedu14/atomic-design/blob/master/marcos_dev.png?raw=true)
+![alt Final project image](https://raw.githubusercontent.com/tedu14/atomic-design/master/images/marcos_dev.png)
 
 ### Concepts
 
-### Final project
-
-![alt Final project image](https://github.com/tedu14/atomic-design/blob/master/atomic_desing.png?raw=true)
+![alt Final project image](https://raw.githubusercontent.com/tedu14/atomic-design/master/images/atomic_desing.png)
 
 ## Project setup
 
